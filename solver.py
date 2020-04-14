@@ -26,7 +26,7 @@ def check_charset(code,rb):
                 return False
     return True
 
-# Cette fonction servira à vérifier que le bon nombre de chiffre à la bonne position est présent dans un code potention
+# Cette fonction servira à vérifier que le bon nombre de chiffre à la bonne position est présent dans un code potentiel
 def match_jb(code,jb):
     valid_rule = 0
     for j in jb:
@@ -76,7 +76,7 @@ def crack_da_code(l, jb,jm,rb):
         if check_charset(code, rb) and match_jb(code, jb) and match_jm(code,jm) and each_once(code) and not match_jb(code,jm):
             print(code)
 
-# Cette fonction permet d'utiliser le programmer et d'enregistrer les paramètres
+# Cette fonction permet d'utiliser le programme et d'enregistrer les paramètres
 def menu():
     print("-------------------------")
     print("SUPER RAISOUDREUR DE CODE")
@@ -101,7 +101,7 @@ def menu():
         elif choice == 4 :
             break
         else :
-            print("Yo ziva on t'a dit entre 1 et 3")
+            print("Yo ziva on t'a dit entre 1 et 4")
             print("Ca y est, t'as gagné, le programme se ferme")
             exit()
     crack_da_code(l, jb,jm,rb)
