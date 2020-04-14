@@ -1,5 +1,3 @@
-problem_solver
-
 
 Pour faire tourner ce script tout ce qu'il vous faut c'est avoir installé python 3 :
 
