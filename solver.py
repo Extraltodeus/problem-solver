@@ -6,11 +6,11 @@
 # DECLARATION DES BIDULES, C'EST PAS ENCORE ICI QUE LE CODE S'EXECUTE, ici il se définit. La logique d'exéctution c'est plus bas.
 # -----------------------------------------------------------------------------------------------------------------------------
 
-jb = [] # c'est un chouette nom de variable en période de coronavirus / contiendra les futurs "bonne position, bon chiffre"
-jm = [] # hashtag j'aime / bon chiffre, mauvaise position
-rb = [] # trouve une blague sur le nom de cette variable, partage et clic sur subscribe / rien n'est bon
+jb = [] # contiendra les futurs "bonne position, bon chiffre"
+jm = [] # bon chiffre, mauvaise position
+rb = [] # rien n'est bon
 
-# juste une fonction pour pas se faire chier à retaper du code
+# juste une fonction pour pas retaper du code, c'est aussi un chouette nom de variable en période de coronavirus
 def pq():
     print("code :")
     code = input()
