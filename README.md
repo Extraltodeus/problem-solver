@@ -9,4 +9,7 @@ Puis de double-cliquer sur le script et entrer les affirmations pour résoudre l
 screenshot : https://imgur.com/DeesqZM 
 
 
-fait en référence à : https://imgur.com/twZbN6W 
+fait en référence à ça parce qu'un ami me prenait pour un idiot alors que je tentais de lui expliquer qu'il y avait plusieurs solutions possibles :
+https://imgur.com/twZbN6W 
+
+Voilà.
